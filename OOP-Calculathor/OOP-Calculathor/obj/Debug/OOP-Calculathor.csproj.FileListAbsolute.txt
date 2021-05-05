@@ -1,0 +1,10 @@
+D:\Documents\Al\Visual Studio 2019\Projects\OOP-Calculathor-1.0.0.0\OOP-Calculathor\OOP-Calculathor\bin\Debug\OOP-Calculathor.exe.config
+D:\Documents\Al\Visual Studio 2019\Projects\OOP-Calculathor-1.0.0.0\OOP-Calculathor\OOP-Calculathor\bin\Debug\OOP-Calculathor.exe
+D:\Documents\Al\Visual Studio 2019\Projects\OOP-Calculathor-1.0.0.0\OOP-Calculathor\OOP-Calculathor\bin\Debug\OOP-Calculathor.pdb
+D:\Documents\Al\Visual Studio 2019\Projects\OOP-Calculathor-1.0.0.0\OOP-Calculathor\OOP-Calculathor\obj\Debug\OOP-Calculathor.csprojAssemblyReference.cache
+D:\Documents\Al\Visual Studio 2019\Projects\OOP-Calculathor-1.0.0.0\OOP-Calculathor\OOP-Calculathor\obj\Debug\OOP_Calculathor.Form1.resources
+D:\Documents\Al\Visual Studio 2019\Projects\OOP-Calculathor-1.0.0.0\OOP-Calculathor\OOP-Calculathor\obj\Debug\OOP_Calculathor.Properties.Resources.resources
+D:\Documents\Al\Visual Studio 2019\Projects\OOP-Calculathor-1.0.0.0\OOP-Calculathor\OOP-Calculathor\obj\Debug\OOP-Calculathor.csproj.GenerateResource.cache
+D:\Documents\Al\Visual Studio 2019\Projects\OOP-Calculathor-1.0.0.0\OOP-Calculathor\OOP-Calculathor\obj\Debug\OOP-Calculathor.csproj.CoreCompileInputs.cache
+D:\Documents\Al\Visual Studio 2019\Projects\OOP-Calculathor-1.0.0.0\OOP-Calculathor\OOP-Calculathor\obj\Debug\OOP-Calculathor.exe
+D:\Documents\Al\Visual Studio 2019\Projects\OOP-Calculathor-1.0.0.0\OOP-Calculathor\OOP-Calculathor\obj\Debug\OOP-Calculathor.pdb
